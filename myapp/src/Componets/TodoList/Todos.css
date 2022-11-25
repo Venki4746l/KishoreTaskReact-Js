@@ -1,0 +1,38 @@
+.card{
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    height: 100vh;
+}
+input[type="text"]{
+    padding: 5px;
+    width: 300px;
+    background-color: rgb(234, 234, 235);
+    color: black;
+    font-size: 25px;
+}
+.card_body{
+background-color: lightcyan;
+}
+.Todo{
+    background-color: rgb(221, 231, 228);
+    width: 50%;
+    height: 40px;
+    
+}
+.Todo h1{
+    font-size: 28px;
+    color: rgb(121, 107, 107);
+}
+.Todo h1 button{
+    background-color: red;
+    border-radius: 15px;
+    font-size: 21px;
+    color: white;
+    border-width: 0px;
+
+}
+.Todo h1 button:hover{
+    background-color: rgb(30, 223, 5);
+    
+
+}

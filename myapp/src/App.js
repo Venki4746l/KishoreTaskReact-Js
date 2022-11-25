@@ -1,7 +1,11 @@
-import React from "react";
+import React from 'react'
 
 const App = () => {
-  return <div>adada </div>;
-};
+  return (
+    <div>
+      sdfsfsf
+    </div>
+  )
+}
 
 export default App;
